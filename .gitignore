@@ -12,7 +12,12 @@ tags
 .coverage
 .cache
 .pytest_cache
+.mypy_cache
 
 # developer environments
 .idea
 .vscode
+Pipfile
+
+# agent storage
+examples/agents

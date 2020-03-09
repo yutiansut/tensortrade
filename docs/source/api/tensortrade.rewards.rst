@@ -11,5 +11,6 @@ Submodules
 
 .. toctree::
 
-   tensortrade.rewards.reward_strategy
-   tensortrade.rewards.simple_profit_strategy
+   tensortrade.rewards.reward_scheme
+   tensortrade.rewards.risk_adjusted_returns
+   tensortrade.rewards.simple_profit
